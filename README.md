@@ -1,7 +1,3 @@
-Certainly, here's an example README file that provides a clear explanation of the code you've shared:
-
----
-
 # Price Prediction Model for Mango Prices
 
 This repository contains a price prediction model for mango prices. The goal of this project is to develop a predictive model that can accurately estimate the price of mangoes based on various features. The project involves data preprocessing, exploratory data analysis, feature engineering, and model building.
@@ -57,6 +53,3 @@ The intention of this code is to serve as a starting point for building a price 
 7. **Model Building:** Multiple regression models are trained on the preprocessed data, including linear regression, decision trees, and more.
 8. **Model Evaluation:** The R-squared (R^2) score is calculated to assess the performance of each trained model in predicting mango prices.
 
----
-
-Feel free to customize and expand upon this README template according to your preferences and the specific details of your project. This README will help others understand the purpose, techniques used, and steps taken in your code.
